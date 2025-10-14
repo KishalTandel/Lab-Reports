@@ -319,6 +319,11 @@ justify-content: space-between;
   transition: max-height 250ms ease;
 }
 
+#top{
+  max-height: fit-content;
+  transition: max-height 250ms ease;
+}
+
 .web_link a{
   cursor : pointer;
 }
@@ -457,5 +462,6 @@ li a:active, li p:active{
 }
 
 }
+
 
 
